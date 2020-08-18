@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "610267429964",
+    "firebase_url": "https://newp-f36a5.firebaseio.com",
+    "project_id": "newp-f36a5",
+    "storage_bucket": "newp-f36a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610267429964:android:63f6875ac7b376cfea88e9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610267429964-qhgul1v018fsrn35m4h26dud6d1edmc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlRfNzSrHJf6dJRI9WLU2rijel9vZWGZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610267429964-qhgul1v018fsrn35m4h26dud6d1edmc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
